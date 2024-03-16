@@ -1,0 +1,10 @@
+{
+    "regusername": "standard_user",
+    "regpassword": "secret_sauce",
+    "lockusername": "locked_out_user",
+    "probusername": "problem_user",
+    "perglitchusername": "performance_glitch_user",
+    "errusername": "error_user",
+    "visusername": "visual_user"
+  }
+  
